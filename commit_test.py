@@ -1,1 +1,2 @@
 print("teset")
+help(dir)
